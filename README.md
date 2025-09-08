@@ -21,11 +21,11 @@
 
 <img align="right" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="coding" width="380"/>
 
-- 🔭 Currently working on: **Medi Smart**
-- 🌱 Learning: **Angular & Advanced React**
+- 🔭 Currently working on: **Cash Mate(Web Application)**
+- 🌱 Learning: **Angular & Spring Boot**
 - 🤝 Collaborating on: **Nezto | Smart Restaurant System**
 - 💬 Ask me about: **Java, JavaScript, React, Node.js, SQL**
-- 💼 Portfolio: [GitHub Projects](https://github.com/Arindam-Das-2004)
+- 💼 Portfolio: [GitHub Projects](https://github.com/Arindam-99)
 - 📫 Reach me: **dasarindam342@gmail.com**
 - ⚡ Fun fact: I treat bugs like puzzles 🧩
 
