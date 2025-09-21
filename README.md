@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=Arindam%20Das&fontSize=45&fontColor=000000&animation=fadeIn" alt="Banner" />
 </p>
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arindam-das-2004&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arindam-99&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
   <a href="https://twitter.com/arindamdas02"><img src="https://img.shields.io/twitter/follow/arindamdas02?logo=twitter&style=flat-square&color=00acee" /></a>
 </p>
 
@@ -54,7 +53,7 @@ From building clean UIs with React to crafting robust backends with Node.js and 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,postgres,angular,tailwind,figma,python,php,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,postgres,angular,tailwind,figma,python,php,c,cpp,firebase,aws,spring&theme=dark" />
 </p>
 
 ---
@@ -62,17 +61,21 @@ From building clean UIs with React to crafting robust backends with Node.js and 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arindam-Das-2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arindam-99&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&bg_color=1a1a1a&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam-Das-2004&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam-99&theme=tokyonight&background=1a1a1a&stroke=00ffff&ring=00ffff&fire=00ffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Contribution GIF" />
+</p>
+
+---
 
 ### 🧠 Quote to Code By
 
