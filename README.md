@@ -45,7 +45,7 @@ From building clean UIs with React to crafting robust backends with Node.js and 
   <a href="https://twitter.com/arindamdas02"><img src="https://img.icons8.com/ios-filled/30/00acee/twitter.png"/></a>
   <a href="https://linkedin.com/in/arindam-das-a60826304"><img src="https://img.icons8.com/ios-filled/30/00FFFF/linkedin.png"/></a>
   <a href="https://www.facebook.com/profile.php?id=100043683341134"><img src="https://img.icons8.com/ios-filled/30/00FFFF/facebook-new.png"/></a>
-  <a href="https://instagram.com/ari_n_dam_404"><img src="https://img.icons8.com/ios-filled/30/ff69b4/instagram-new.png"/></a>
+  <a href="https://instagram.com/ari_n_dam_404_"><img src="https://img.icons8.com/ios-filled/30/ff69b4/instagram-new.png"/></a>
 </p>
 
 ---
