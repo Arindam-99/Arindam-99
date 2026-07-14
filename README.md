@@ -1,92 +1,98 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=250&section=header&text=Arindam%20Das&fontSize=45&fontColor=000000&animation=fadeIn" alt="Banner" />
-</p>
+<div align="center">
 
-<h1 align="center" style="color:#ffffff">👋 Hi, I'm <span style="color:#00ffff">Arindam Das</span></h1>
-<h3 align="center" style="color:#aaaaaa">🚀 Fullstack Developer | Tech Enthusiast | Problem Solver</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFFF&height=280&section=header&text=Arindam%20Das&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technical%20Support%20Engineer%20%7C%20Educator%20%7C%20Freelance%20Developer&descAlignY=58&descSize=18" alt="Banner"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;JavaScript+Developer;Java+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Always+learning+new+things" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Technical+Support+Engineer+%40+Work;Part-Time+Teacher+%F0%9F%8E%93;Freelance+Fullstack+Developer;Java+%7C+React+%7C+Next.js;Building+Cash+Mate+%F0%9F%92%B0;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arindam-99&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
-  <a href="https://twitter.com/arindamdas02"><img src="https://img.shields.io/twitter/follow/arindamdas02?logo=twitter&style=flat-square&color=00acee" /></a>
-</p>
+<br/>
 
----
+<a href="https://twitter.com/arindamdas02"><img src="https://img.shields.io/twitter/follow/arindamdas02?logo=twitter&style=for-the-badge&color=00acee&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Arindam-99&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" />
 
-### 💡 About Me
+</div>
 
-<img align="right" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="coding" width="380"/>
+<br/>
 
-- 🔭 Currently working on: **Cash Mate(Web Application)**
-- 🌱 Learning: **Angular & Spring Boot**
-- 🤝 Collaborating on: **Nezto | Smart Restaurant System**
-- 💬 Ask me about: **Java, JavaScript, React, Node.js, SQL**
-- 💼 Portfolio: [GitHub Projects](https://github.com/Arindam-99)
-- 📫 Reach me: **dasarindam342@gmail.com**
-- ⚡ Fun fact: I treat bugs like puzzles 🧩
+## 👨‍💻 About Me
 
----
+<img align="right" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="coding" width="260" style="border-radius:14px;border:3px solid #00FFFF;box-shadow:0 0 15px rgba(0,255,255,0.5);padding:4px;background:#0D1117;"/>
 
-### 👨‍💻 Who Am I?
+I'm **Arindam Das**, a fullstack developer from India 🇮🇳 who wears a few different hats these days:
 
-I’m a **fullstack developer** from India 🇮🇳 with a passion for crafting seamless, scalable, and stylish digital experiences.
+- 🛠️ Working as a **Technical Support Engineer**, solving real-world problems every day
+- 🎓 **Part-time Teacher**, helping students grasp programming concepts
+- 💻 **Freelance Developer**, building web apps for clients on the side
+- 🔭 Currently building **Cash Mate** — a personal finance web app
+- 🤝 Collaborating on **Nezto** — a Smart Restaurant System
+- 🌱 Leveling up in **Angular & Spring Boot**
+- ❤️ In love with **Java** for backend logic, and **React / Next.js** for building slick frontends
+- 💬 Ask me about **Java, JavaScript, React, Next.js, Node.js, SQL**
+- 📫 Reach me at **dasarindam342@gmail.com**
+- ⚡ Fun fact: I treat bugs like puzzles 🧩 — and support tickets like plot twists
 
-From building clean UIs with React to crafting robust backends with Node.js and MongoDB — I love the **entire dev process**. I believe in open source, clean code, and continual learning.
+<br clear="right"/>
 
----
+## 🧰 Tech Stack
 
-### 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://codepen.io/pxpmurvx-the-bashful"><img src="https://img.icons8.com/ios-filled/30/00FFFF/codepen.png"/></a>
-  <a href="https://twitter.com/arindamdas02"><img src="https://img.icons8.com/ios-filled/30/00acee/twitter.png"/></a>
-  <a href="https://linkedin.com/in/arindam-das-a60826304"><img src="https://img.icons8.com/ios-filled/30/00FFFF/linkedin.png"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100043683341134"><img src="https://img.icons8.com/ios-filled/30/00FFFF/facebook-new.png"/></a>
-  <a href="https://instagram.com/ari_n_dam_404_"><img src="https://img.icons8.com/ios-filled/30/ff69b4/instagram-new.png"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,express,angular,mongodb,mysql,postgres,tailwind,html,css,figma,python,php,c,cpp,firebase,aws,git,vscode,docker&theme=dark&perline=8" />
 
----
+</div>
 
-### ⚙️ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,postgres,angular,tailwind,figma,python,php,c,cpp,firebase,aws,spring&theme=dark" />
-</p>
+## 📈 GitHub Stats
 
----
+<div align="center">
 
-### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Arindam-99&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=12" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam-99&theme=tokyonight&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&border_radius=12" alt="GitHub Streak Stats" width="48%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arindam-99&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&bg_color=1a1a1a&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam-99&theme=tokyonight&background=1a1a1a&stroke=00ffff&ring=00ffff&fire=00ffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam-99&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=12" alt="Top Languages" width="48%"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Arindam-99&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" width="90%"/>
 
+</div>
 
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Contribution GIF" />
-</p>
+## 📊 Contribution Activity
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arindam-99&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/arindam-das-a60826304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/arindamdas02"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/ari_n_dam_404_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100043683341134"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://codepen.io/pxpmurvx-the-bashful"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="mailto:dasarindam342@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🧠 Quote to Code By
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Quote-Code%20with%20passion.%20Build%20with%20purpose.-00FFFF?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Quote-Code%20with%20passion.%20Build%20with%20purpose.-00FFFF?style=for-the-badge&logo=codeforces&logoColor=white" />
 
----
+</div>
 
-### 🧑‍🎨 Footer
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0F2027&height=120&section=footer"/>
 
 <p align="center" style="color:#888888">
-  Made with ❤️ by <strong style="color:#00FFFF">Arindam Das</strong> | Powered by ☕ It Self
+  Made with ❤️ by <strong style="color:#00FFFF">Arindam Das</strong> &nbsp;|&nbsp; Powered by ☕
 </p>
