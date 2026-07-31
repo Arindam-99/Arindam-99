@@ -47,14 +47,20 @@ I'm **Arindam Das**, a fullstack developer from India 🇮🇳 who wears a few d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arindam-99&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=12" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam-99&theme=tokyonight&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&border_radius=12" alt="GitHub Streak Stats" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Arindam-99&theme=tokyonight&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&border_radius=12" alt="GitHub Streak Stats" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam-99&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=12" alt="Top Languages" width="48%"/>
 
+<img src="https://img.shields.io/badge/Top%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Language JavaScript"/>
+
+<br/>
+
+<img src="https://placehold.co/900x220/0D1117/00FFFF?text=Trophies+&font=raleway" alt="Trophies placeholder" width="90%"/>
+<!-- Live trophy image (swap back in once the service is reachable):
 <img src="https://github-profile-trophy.vercel.app/?username=Arindam-99&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" width="90%"/>
+-->
 
 </div>
 
